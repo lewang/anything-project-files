@@ -1,12 +1,17 @@
-* Purpose
+
+* DEPRECATION NOTICE
+
+=anything-project-files= has been superceded by [[https://github.com/lewang/helm-project-files][helm-project-files]].  This project will not be developed further.
+
+** Purpose
 
 1. Anything source for files in current project.
 2. "C-x b" replacement.
 
-* Install
+** Install
 
 see header of source.
-* But what about flex?
+** But what about flex?
 
 I don't like flex.  It often returns results I didn't intend. It needs other [[http://scottfrazersblog.blogspot.com/2009/12/emacs-better-ido-flex-matching.html][optimizations]] to be useful.
 
