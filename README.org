@@ -1,7 +1,7 @@
 
 * DEPRECATION NOTICE
 
-=anything-project-files= has been superceded by [[https://github.com/lewang/helm-project-files][helm-project-files]].  This project will not be developed further.
+=anything-project-files= has been superseded by [[https://github.com/lewang/helm-cmd-t][lewang/helm-cmd-t]].  This project will not be developed further.
 
 ** Purpose
 
